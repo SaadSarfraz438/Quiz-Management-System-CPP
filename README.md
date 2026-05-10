@@ -13,6 +13,7 @@ Originally developed as an academic project and later enhanced with improved str
 Quiz-Management-System/
 │── cpp-version/
 │     └── quiz.cpp
+|     └──run.bat
 │── README.md
 │── LICENSE
 ```
@@ -42,8 +43,7 @@ Core Features
 - C++
 - File Handling
 - Dev-C++
-- QT framework
-  
+- 
   ---
 
 ## How to Run
@@ -52,16 +52,21 @@ Core Features
 - Compile the source code.
 - Run the executable file.
 
+### Method 2: Using Batch File (Windows)
+
+1. Make sure the executable file exists.
+2. Double-click `run.bat`.
+3. The Quiz Management System will launch automatically.
+   
 ---
 
 ## Learning Outcomes
 
 This project helped strengthen concepts of:
 
-File Handling
-Logic Building
-Problem Solving
-User Interaction Design
+- File Handling
+- Logic Building
+- Problem Solving
 
 ---
 
@@ -69,10 +74,10 @@ User Interaction Design
 
 Planned enhancements for this project:
 
- Graphical User Interface (GUI)
- Timer-based quiz system
- Admin panel for question management
- Leaderboard / High Scores
+- Graphical User Interface (GUI)
+- Timer-based quiz system
+- Leaderboard / High Scores
+- User Interaction Design
 
 ---
  
