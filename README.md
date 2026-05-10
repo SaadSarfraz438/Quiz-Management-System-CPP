@@ -1,23 +1,92 @@
-# Quiz Management System (C++)
+# Quiz Management System
 
-A console-based Quiz Management System developed in C++ using object-oriented programming concepts.
+A modernized **Quiz Management System** developed in **C++** using **Programming Fundamentals** principles. This project allows users to take quizzes, manage questions, and calculate scores through an interactive system.
+
+Originally developed as an academic project and later enhanced with improved structure, UI, and documentation for portfolio purposes.
+
+---
+
+##  Project Structure
+
+```txt
+Quiz-Management-System/
+│── cpp-version/
+│     └── quiz.cpp
+│
+│── ui-version/
+│     ├── index.html
+│     ├── style.css
+│     ├── script.js
+│
+│── screenshots/
+│
+│── README.md
+│── LICENSE
+```
+---
 
 ## Features
+Core Features
 - Add and manage quiz questions
-- Conduct quizzes
-- Calculate and display scores
+- Conduct interactive quizzes
+- Automatic score calculation
+- Display final results
+- Delete All Questions
 - File handling for data storage
+  
+  ---
+  
+## Enhanced Features (Planned)
+🔹 Improved console UI
+🔹 Better menu navigation
+🔹 User-friendly experience
+🔹 Organized project structure
+🔹 Future GUI/Web UI integration
 
-## Technologies
+---
+
+## Technologies Used
 - C++
+- File Handling
 - Dev-C++
+  
+  ---
 
 ## How to Run
-1. Compile the source file using a C++ compiler
-2. Run the executable
-OR
-3. Use the provided batch file (Windows)
+#### Method 1: Compile Manually
+Open the project in a C++ IDE such as Dev-C++, online compiler, Code::Blocks, or Visual Studio.
+Compile the source code.
+Run the executable file.
 
+---
+
+## Learning Outcomes
+
+This project helped strengthen concepts of:
+
+File Handling
+Logic Building
+Problem Solving
+
+---
+
+## Future Improvements
+
+Planned enhancements for this project:
+
+ Graphical User Interface (GUI)
+ Timer-based quiz system
+ Admin panel for question management
+
+---
+ 
 ## Author
+
 Saad Sarfraz
-BS Software Engineering
+BS Software Engineering Student
+- Reach out via:[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://x.com/Saadsarfraz438)
+
+---
+## License
+
+This project is licensed under the MIT License — feel free to use and modify it for learning purposes.
